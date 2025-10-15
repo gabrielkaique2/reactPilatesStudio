@@ -14,3 +14,12 @@ The React Compiler is not enabled on this template because of its impact on dev 
 ## Expanding the ESLint configuration
 
 If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+
+## Projeto de Estudos
+Esse projeto está sendo desenvolvido para fins de estudo, para entendimento de frontend React e consumo de APIS.
+A API em questão é o projeto [Pilates-Studio](https://github.com/gabrielkaique2/Pilates-Studio) desse mesmo perfil, criado usando Spring Boot e PostgreSQL.
+
+## Como executar
+.
+.
+.
